@@ -1,0 +1,21 @@
+{
+  "name": "2048",
+  "description": "Gross 2048 clone created on a flight",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nathan Peck",
+    "email": "nathan@airtime.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nathanpeck/2048.git"
+  },
+  "devDependencies": {
+    "async":      "*",
+    "prompt":     "*",
+    "colors":     "*",
+    "lodash":     "*"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
